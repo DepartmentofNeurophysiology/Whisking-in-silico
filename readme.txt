@@ -1,9 +1,6 @@
-A network model of adaptive whisking. 
+This toolbox contains an in silico model of whisking in rodents. This computational model provides a platform to adjust different parameters of whisking and explore their influence on whisker movements. Moreover, this simulator enables to explore between "adaptive" versus "uniform" whisking paradigms. In addition, user can explore the effect of "compliant" versus "reactive" retraction. 
 
-
-This function simulates whisking in rodents. This computational model provides a platform to adjust different parameters of whisking and explore their influence on whisker movements. Moreover, this simulator enables to explore between "adaptive" versus "uniform" whisking paradigms. In addition, user can explore the effect of "comliant" versus "reactive" retraction. 
-
-A computational circuit that could perform adaptive sensorimotor control necessarily requires information from sensory circuits about the stimulus availability as well as motor control circuits that perform phase to motor signal transformation given the current state of the sensory information. In this model output of each node is a transfer function rather than a time and/or rate varying action potentials. Please note that the aim of this model is not to mechanistically explain how the brain performs sensorimotor computation, it is rather to provide the minimal circuit requirements for adaptive control of whisker position. For further explanation please refere to "Development of adaptive motor control for tactile navigation" by Azarfar et.al
+A computational circuit that could perform adaptive sensorimotor control necessarily requires information from sensory circuits about the stimulus availability as well as motor control circuits that perform phase to motor signal transformation given the current state of the sensory information. In this model output of each node is a transfer function rather than a time and/or rate varying action potentials. Please note that the aim of this model is not to mechanistically explain how the brain performs sensorimotor computation, it is rather to provide the minimal circuit requirements for adaptive control of whisker position. For further explanation please refer to "Development of adaptive motor control for tactile navigation" by Azarfar and Celikel (DOI to follow).
 
 
 How to Run the model
